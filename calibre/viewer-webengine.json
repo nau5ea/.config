@@ -1,0 +1,34 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAQgAAAAEwAAB38AAAQ3AAAEIQAAABQAAAd+AAAENgAAAAEAAAAAB4AAAAQhAAAAFAAAB34AAAQ2"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEOAAAEOPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAQ4AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAADXgAABCMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 22,
+    "controls_help_shown_count": 1,
+    "current_color_scheme": "sepia-dark",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Max Weber"
+        ],
+        "key": "/home/void/Calibre Library/Max Weber/The Protestant Ethic and the Spirit of Capitalism_ And Other Writings (Penguin Twentieth-Century (7)/The Protestant Ethic and the Spirit of Cap - Max Weber.mobi",
+        "pathtoebook": "/home/void/Calibre Library/Max Weber/The Protestant Ethic and the Spirit of Capitalism_ And Other Writings (Penguin Twentieth-Century (7)/The Protestant Ethic and the Spirit of Cap - Max Weber.mobi",
+        "timestamp": "2023-02-07T04:28:15.253Z",
+        "title": "The Protestant Ethic and the Spirit of Capitalism: And Other Writings (Penguin Twentieth-Century Classics)"
+      }
+    ]
+  }
+}

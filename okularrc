@@ -1,0 +1,35 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[MainWindow]
+LVDS1 Height 1024x768=768
+LVDS1 Width 1024x768=1024
+LVDS1 XPosition 1024x768=0
+LVDS1 YPosition 1024x768=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAMAAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/books/absoluteFreeBSD.epub
+File10[$e]=$HOME/school/theory/theoryBook.djvu
+File2[$e]=$HOME/school/glit/navarre.pdf
+File3[$e]=$HOME/school/systems/systemsProgramming.pdf
+File4[$e]=$HOME/school/theory/hw02.pdf
+File5[$e]=$HOME/school/glit/baudelaire.pdf
+File6[$e]=$HOME/school/glit/fanon_blackSkinWhiteMasks.epub
+File7[$e]=$HOME/school/theory/hw03/hw03.pdf
+File8[$e]=$HOME/school/theory/hw04.pdf
+File9[$e]=$HOME/school/glit/houseboy.pdf
+Name1[$e]=absoluteFreeBSD.epub
+Name10[$e]=theoryBook.djvu
+Name2[$e]=navarre.pdf
+Name3[$e]=systemsProgramming.pdf
+Name4[$e]=hw02.pdf
+Name5[$e]=baudelaire.pdf
+Name6[$e]=fanon_blackSkinWhiteMasks.epub
+Name7[$e]=hw03.pdf
+Name8[$e]=hw04.pdf
+Name9[$e]=houseboy.pdf

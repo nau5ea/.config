@@ -1,0 +1,60 @@
+{
+	"analytics-uuid": "61fef921-749a-4e69-bd6e-4b1a7888613e",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1678219286582
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "109224597986394064022",
+		"email": "cha.pullman@gmail.com",
+		"email_verified": true,
+		"at_hash": "LF5nor8TOY7DAuvi6ccMQA",
+		"iat": 1677786883,
+		"exp": 1677790483
+	},
+	"tokens": {
+		"expires_at": 1678235535896,
+		"refresh_token": "1//06alGDivwq5QzCgYIARAAGAYSNwF-L9IrkMtAyxLdI4u-gm7aLnER4CeNMLtJvMmd3jn_3PdvWmPVSSv_UOU5yuRHrbo6o0l3N1M",
+		"scopes": [],
+		"access_token": "ya29.a0AVvZVsr0qPkEbRlfjgVeyJ4c2DRRdA5-0xSLi7ITK5oW6rHeieXj1ImTGWWPRjf_8huOWo-270DrraoNkfm-36yL8-5RTKmazD7aRiQ81VIHlgLajEVDQi-gG3A5O_-Ky8cHBmyP6CfWA1So7fiMRkq95aQYorBDqIgucAaCgYKAXkSARASFQGbdwaIVFQ5INVQWsoTxYhxnqYpMQ0173",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjI1NWNjYTZlYzI4MTA2MDJkODBiZWM4OWU0NTZjNDQ5NWQ3NDE4YmIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA5MjI0NTk3OTg2Mzk0MDY0MDIyIiwiZW1haWwiOiJjaGEucHVsbG1hbkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImFILS1HQ1RlbnNFSGN5UGNyOWZvTXciLCJpYXQiOjE2NzgyMzE5NzUsImV4cCI6MTY3ODIzNTU3NX0.T_GcELqgRB0BJgUUIpNOXni1qcy3CXnz8v7n7DFXwWWYGeeSvv9r9I2DxwAbhptLzMnCB7YcZyfH0swAW3y0f4KleVmZaFzC_MvXVhXXEZIXpLHYNbKnT9tpKunCB3FovHxvqz9QU9CrLXAWMam-xkIocfqkXbh6fhAGjm8iqeNKXpqI8sEPEx5XWwG8GAo24zAoKKJ-fSk8IKg9_-PZCSqf17D61Ti5w6BOONMJ-h14NZgMXusgry2bBruxhf9c3StKk5lZXMbQw_LWbiDytcbBJYv7fT_BBVUgKsfRhxUa9fFpcJLBaSVXxV1zUtPk-pI0MYL1fwRovdDmmuTEhw"
+	},
+	"emulator-analytics-clientId": "8a3bcfd4-221b-4cb6-a2e8-c5b21d0228c2",
+	"activeProjects": {
+		"/home/void/sources/CHA": "collegehillassociation-912d0"
+	},
+	"adminsdkconfig": {
+		"collegehillassociation-912d0": {
+			"projectId": "collegehillassociation-912d0",
+			"databaseURL": "https://collegehillassociation-912d0.firebaseio.com",
+			"storageBucket": "collegehillassociation-912d0.appspot.com",
+			"locationId": "us-central"
+		}
+	},
+	"webconfig": {
+		"collegehillassociation-912d0": {
+			"projectId": "collegehillassociation-912d0",
+			"appId": "1:927456829567:web:0422e4d59113d083",
+			"databaseURL": "https://collegehillassociation-912d0.firebaseio.com",
+			"storageBucket": "collegehillassociation-912d0.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyAkjl-ODmjLQvGlFcz_8KArHaNVMwCnWgU",
+			"authDomain": "collegehillassociation-912d0.firebaseapp.com",
+			"messagingSenderId": "927456829567",
+			"measurementId": "G-KDNSG6P9SK"
+		}
+	}
+}

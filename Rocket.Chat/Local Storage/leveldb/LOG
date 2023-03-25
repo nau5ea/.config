@@ -1,0 +1,2 @@
+2023/01/05-09:58:37.938 395 Creating DB /home/void/.config/Rocket.Chat/Local Storage/leveldb since it was missing.
+2023/01/05-09:58:37.945 395 Reusing MANIFEST /home/void/.config/Rocket.Chat/Local Storage/leveldb/MANIFEST-000001

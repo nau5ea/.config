@@ -1,0 +1,16 @@
+{
+  "add books dialog dir": "/home/void/books",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "database location dialog": "/home/void/books",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_was_run": true
+}

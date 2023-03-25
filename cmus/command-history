@@ -1,0 +1,25 @@
+pl-create 9epTnr
+pl-create 8eptnr
+shell 
+pl-create 7epTnr
+pl-create 6eptnr
+plcreate 6eptnr
+create-playlist 6eptnr
+pl-create 5eptnr
+playlist 3epTnr
+new playlist
+pl-export /torrents/songs/tnrEp2/list
+pl-create tnrep2
+set mpris=false
+add /torrents/allisonBishop/
+add /torrents/allisonBishop/*
+add /torrents/allisonBishop
+s
+stop
+pause
+p
+save
+help
+Browser
+a ~/podcasts
+add
